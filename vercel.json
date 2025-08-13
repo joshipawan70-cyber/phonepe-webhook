@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/phonepe-webhook.js": {
-      "runtime": "@vercel/node"
+      "runtime": "now-node@18"
     }
   }
 }
